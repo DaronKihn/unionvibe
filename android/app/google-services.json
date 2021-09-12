@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791833264115",
+    "project_id": "unionvibe-599af",
+    "storage_bucket": "unionvibe-599af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791833264115:android:d3d4e92e5c7debdc131c86",
+        "android_client_info": {
+          "package_name": "com.example.unionvibe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791833264115-l7psuv3nk3nln0b8bf40113ire9o041a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Z8y-OSOXKmYf4kWlBDQE-Vez9qtzlEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791833264115-l7psuv3nk3nln0b8bf40113ire9o041a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
